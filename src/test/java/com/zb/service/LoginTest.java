@@ -28,7 +28,7 @@ public class LoginTest {
     @Before
     public void setUp(){
 
-        log.info("CustInvestMappersTest begin init");
+        log.info("Begin init");
     }
 
     @Test
